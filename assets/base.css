@@ -2891,3 +2891,7 @@ details-disclosure > details {
   color: purple;
   font-size: 40px;
 }
+
+header.header {
+  background-color: red;
+}
